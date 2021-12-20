@@ -2,10 +2,6 @@ package Calc;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author user
- */
 public class Sci extends javax.swing.JFrame {
     double firstnum;
     double secondnum;
