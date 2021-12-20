@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Subhadip_Roy
+ * @author user
  */
 public class Sci extends javax.swing.JFrame {
     double firstnum;
