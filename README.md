@@ -10,8 +10,18 @@ How to run the Calculator:-
 Here is how it looks while running :-
 
 ![alt text](https://github.com/Subhadip11290157/Sci-Cal_plus_Unit-Conv/blob/e592eab8201468e2b3de3eebc692728738a64f73/pics/pic%201.png?raw=true)
-                (a)
+
+                                                          (a)
+              
 ![alt text](https://github.com/Subhadip11290157/Sci-Cal_plus_Unit-Conv/blob/e592eab8201468e2b3de3eebc692728738a64f73/pics/pic%202.png?raw=true)
-                (b)
+               
+               
+               
+                                                          (b)
                 
-PS: This is my fgirst project using Java Swing ^_^
+
+
+
+
+
+PS: This is my first project using Java Swing :)
